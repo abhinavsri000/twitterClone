@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Trancever/twitterClone)
+
 <h1 align="center">
   React Navigation v5 + React Native Paper = ❤️
 </h1>
